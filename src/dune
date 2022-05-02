@@ -1,0 +1,8 @@
+(library
+  (name sortedseq_intersect)
+  (public_name sortedseq_intersect)
+)
+
+(env
+  (dev
+    (flags (:standard -warn-error -A))))
