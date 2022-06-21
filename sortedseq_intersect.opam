@@ -1,6 +1,6 @@
 opam-version: "2.0"
 name: "sortedseq_intersect"
-version: "0.1.0"
+version: "0.2.0"
 maintainer: "Fermin Reig"
 authors: ["Fermin Reig"]
 homepage: "https://github.com/ferminr/ocaml_sortedseq_intersect"
