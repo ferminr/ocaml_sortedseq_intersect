@@ -8,7 +8,7 @@ bug-reports: "https://github.com/ferminr/ocaml_sortedseq_intersect/issues"
 dev-repo: "git+https://github.com/ferminr/ocaml_sortedseq_intersect.git"
 doc: "https://github.com/ferminr/ocaml_sortedseq_intersect"
 license: "MIT"
-synopsis: "A divide-and-conquer algorithm in OCaml for the intersection of sorted sequences"
+synopsis: "A divide-and-conquer algorithm to intersect sorted sequences"
 description: """
 The algorithm is described in this paper:
 
